@@ -1,0 +1,25 @@
+{
+  "name": "crip-css-properties",
+  "version": "1.0.0",
+  "description": "Crip CSS Properties for PostCSS-Crip",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/johnie/crip-css-properties.git"
+  },
+  "keywords": [
+    "postcss",
+    "crip",
+    "css",
+    "properties"
+  ],
+  "author": "Johnie Hjelm <johnie.hjelm@symbio.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johnie/crip-css-properties/issues"
+  },
+  "homepage": "https://github.com/johnie/crip-css-properties#readme"
+}
