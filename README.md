@@ -1,6 +1,22 @@
 # Crip CSS Properties
 
-> Simple module with all css properties for the [PostCSS-crip](https://github.com/johnie/postcss-crip) plugin.
+> Simple module with all css properties for the [PostCSS-Crip](https://github.com/johnie/postcss-crip) plugin.
+
+## Usage
+
+```console
+$ npm install --save crip-css-properties
+```
+
+```js
+/**
+ * Getting Crip CSS Properties
+ *
+ * @return {object}
+ */
+
+var CCSS = require('crip-css-properties');
+```
 
 ## List of all available css abbrivations
 
