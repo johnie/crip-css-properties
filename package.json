@@ -1,6 +1,6 @@
 {
   "name": "crip-css-properties",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Crip CSS Properties for PostCSS-Crip",
   "main": "index.js",
   "scripts": {
