@@ -18,7 +18,7 @@ $ npm install --save crip-css-properties
 var CCSS = require('crip-css-properties');
 ```
 
-## List of all available css abbrivations
+## List of all available css abbreviations
 
 * `acc`: accelerator
 * `ac`: align-content
