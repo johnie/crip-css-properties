@@ -282,7 +282,7 @@ var CCSS = require('crip-css-properties');
 * `mask-ry`: mask-repeat-y
 * `mask-s`: mask-size
 * `mnmbc`: match-nearest-mail-blockquote-color
-* `mh`: max-height
+* `mah`: max-height
 * `malh`: max-logical-height
 * `malw`: max-logical-width
 * `maw`: max-width
